@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d934ad-2baa-49e3-a7af-0aafe5f40620" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YrQNF4UF3K0Ew6woZhxnWmJ0Hu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/dk/cphbusiness/banking" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\snake\Software Development\Test\TestAssignment1\src\test\java\dk\cphbusiness\banking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\snake\Software Development\Test\TestAssignment1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dk.cphbusiness.banking in TestAssignment1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAssignment1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.cphbusiness.banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.cphbusiness.banking" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.dk.cphbusiness.banking in TestAssignment1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\snake\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d934ad-2baa-49e3-a7af-0aafe5f40620" name="Default Changelist" comment="" />
+      <created>1583698191910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583698191910</updated>
+      <workItem from="1583698233541" duration="2080000" />
+      <workItem from="1583700616540" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="187" key="#Inspections" timestamp="1583700778979">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="72" y="187" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1583700778979" />
+    <state x="72" y="187" key="#Project_Structure" timestamp="1583698934924">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="72" y="187" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1583698934924" />
+    <state x="414" y="180" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583699888293">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583699888293" />
+    <state x="73" y="454" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583698665996">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="73" y="454" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583698665996" />
+    <state x="276" y="409" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583698414854">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="276" y="409" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1583698414854" />
+    <state x="10" y="183" key="Maven.ArtifactSearchDialog" timestamp="1583700627875">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="10" y="183" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583700627875" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1583700997259">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1583700997259" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="TestAssignment1" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TestAssignment1" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="TestAssignment1" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TestAssignment1" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="TestAssignment1" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TestAssignment1" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+        <item name="main" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="TestAssignment1" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TestAssignment1" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+        <item name="main" type="462c0819:PsiDirectoryNode" />
+        <item name="java" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestAssignment1$dk_cphbusiness_banking_in_TestAssignment1.ic" NAME="dk.cphbusiness.banking in TestAssignment1 Coverage Results" MODIFIED="1583701012517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dk.cphbusiness.banking.*</FILTER>
+    </SUITE>
+  </component>
+</project>
